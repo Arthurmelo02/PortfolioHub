@@ -54,7 +54,7 @@ Este site funciona como um currículo interativo e um hub dos meus primeiros pas
 Estou em busca de **conhecimento, networking e oportunidades de aprendizado**. Se você tem experiência ou quer trocar ideias sobre tecnologia, será um prazer conversar!
 
 - **GitHub:** [github.com/arthurmelo02](https://github.com/arthurmelo02)
-- **E-mail:** [arthur.melo@exemplo.com](pauloarthurmelo36@gmail.com) 
+- **E-mail:** [pauloarthurmelo36@gmail.com](pauloarthurmelo36@gmail.com) 
 
 ---
 
