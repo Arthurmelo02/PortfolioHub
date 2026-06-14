@@ -12,6 +12,8 @@ Bem-vindo ao meu portfólio online! Este projeto foi criado para documentar e co
 Este site funciona como um currículo interativo e um hub dos meus primeiros passos no mundo do desenvolvimento. O objetivo é mostrar minha evolução, meus projetos iniciais e as habilidades que estou adquirindo, servindo como um ponto de contato para networking e oportunidades de aprendizado.
 
 **Link para o site:** [arthurmelo02.github.io/PortfolioHub](https://arthurmelo02.github.io/PortfolioHub/)
+**Link para a implementação** [[RELATÓRIO DE IMPLANTAÇÃO DO PORTFOLIOHUB](https://github.com/user-attachments/files/28935575/RELATORIO.DE.IMPLANTACAO.DO.PORTFOLIOHUB.docx)
+
 
 ## 👨‍🎓 Sobre Mim
 
